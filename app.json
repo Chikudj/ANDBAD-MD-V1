@@ -1,5 +1,5 @@
 {
-  "name":"ANDBAD MD",
+  "name":"PIRATE DJ",
   "description":"Deploy now your bot, ANDBAD was developed by MrAndbad himself.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/L4U2K76.jpeg",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"/",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" ANDBAD MD",
+      "value":" PIRATE DJ",
       "required":false
 
     } ,
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -67,7 +67,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"ANDBAD-BOT;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaUd5TUNKZWxjQk1YQnh3Yi9GbmQyS2NCK2podlZNZWlzcGNOMHpwVmtsRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRG9OVGFDMGdGd2x5WjdLNUFBSW9DNWRWZ2Vlb2FCMFU5RTIzYjQ2QWVtND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnSTYrc3VxWmZTTm9ZSGtyS2xGdnpjYlpHMm9lYS9NdDNzYkw4VUg0OW1BPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpcUhtUGF0b21nTGVodHVyTjlNNzI0UzFIQjhVMVY0Mlc5VjFYM0pXK2dNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdCSWVEMk1KM2JqWGovckhHbkFoWWcwY09zbG9DSHRCRnk5YzFRRXJaSEk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkpCYjVNb2Z2V1NZNVB0MHJJWGpxZndqbnNBTGN1Vkw0S0Uwbmg3aU5XUlU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR0t4ZC9wbndJSkYyZTMweEVTaFFXNTUvaUZkelpvVXpMME5GemF2M05VVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibVE4aVVOcDBDTHN1ZkFFMkxYL0tKMUFZV09ST0J5SzZUY0ZNT0dlWHNoUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhTRlJBVzJKdXRMOHVRQUZlbHB0azRVQTNhaWhOMkVzSkVaWXovN0NQd1VsNlVEN3ova3FRUTFseHk2T0haQVZjVGdOcFFSNFBmR0kxeUdVYStVYkJnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQyLCJhZHZTZWNyZXRLZXkiOiJIRTk1V1lnc3d5RkRONURPejFsUWdEZ1Qva2RJdVNZSThMZ1M3MUs1emxNPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJRaHdHckdvNFNxYUNnMEEzYXBZRHRRIiwicGhvbmVJZCI6ImFjMjAwZTlhLTFlMTItNGJiOC04OWQ0LTk5ZWY4ZmExMzI1NSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJockFRZ2hDekdLa0hJQ3A4T3g1Nmd3a3Y5UFk9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNEg5ZHdYTzl2SStDOUVVNzdqaFNjL1hoNUc4PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkVDOVRXS1lBIiwibWUiOnsiaWQiOiIyNTU2NzUxMDQ0OTA6MzhAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BmRXFCMFF5ZHZVdUFZWUJDQUFLQUE9IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImNLUExCd2ZJdXJEN2xSTGx0R290VmhZNE1YTlVVTVNKWTF0d0wxUVBTd0E9IiwiYWNjb3VudFNpZ25hdHVyZSI6Ii8vS3prUlJrOWdFY29zRUN1MU5SWnBZRlphbm9KUGZVdWFmYmpEWTVBSXhEY0dyUUJsLzRDZUtWVjM5LzlQSFZxL1BmYW1kVTJSVGJMRTBGNFlaSUFRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJSbkdkeGh4KzkvcWRYbldJb0JyMjd3a3dncmtIWjhyc1F1SWlsbnNZTG9panZhUHVRaHFDV3h2aGVuQ2dLUmE5eDVKVUpSeGsxb2Z5QkphbHlFQUxBQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NTY3NTEwNDQ5MDozOEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJYQ2p5d2NIeUxxdys1VVM1YlJxTFZZV09ERnpWRkRFaVdOYmNDOVVEMHNBIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzI5NDQxMjM4LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUVVOCJ9",
       "required":true
       
     },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ANDBAD TEAM SUPPORT"
+    "value": " DJ "
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255768318788,255734980103"
+    "value": "255675104490"
   },
     "WARN_COUNT":
   {
@@ -95,16 +95,16 @@
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",  
+    "value":"2",  
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
